@@ -1,0 +1,13 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+#app {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.modal-content {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
